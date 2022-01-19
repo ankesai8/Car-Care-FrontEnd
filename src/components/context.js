@@ -1,8 +1,5 @@
-
 import React from "react";
-
 export  const Appcontext = React.createContext()
-
 export const ContextProvider = (props)=>{
 
     const[value , setValue] = React.useState(true)
