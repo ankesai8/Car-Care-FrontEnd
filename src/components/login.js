@@ -90,6 +90,9 @@ function handleChange(event){
                     <Link to="/register" onClick={()=>{setmsg("")}}>
                         <p className="link1">Register</p>
                     </Link>
+                      <Link to="/forgetPassword">
+                        <p className="link2"></p>
+                    </Link>
                    
                 </div>
                 </div>
