@@ -1,6 +1,10 @@
 # [Click Here](https://carcare-90.netlify.app/) to veiw
 
 
+TECHNICAL SKILLS
+
+
+Car wash express is a website developed with all neccessary features, as well as with authorization and authentication user can book an appointment for different types of car wash , as well as he can cancel his appointment if needed.
 
 # Getting Started with Create React App
 
