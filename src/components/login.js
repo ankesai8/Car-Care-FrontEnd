@@ -70,7 +70,7 @@ function handleChange(event){
                 </div>
                 <div style={{width:"100%"}}>
                     <div className="headingLogin">
-                        <p className="topHead">Register</p>
+                        <p className="topHead">Sign In</p>
                         {
                             msg!=="" ? <p className="errMsg">{msg}</p> : null
                         }
